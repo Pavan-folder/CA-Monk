@@ -2,7 +2,7 @@
 
 A beautiful, modern blog management platform where you can browse, read, and create engaging blog posts. Built with cutting-edge web technologies for a smooth, responsive experience.
 
-![CA Monk Blog App](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=CA+Monk+Blog+App)
+
 
 ## ✨ What You Can Do
 
@@ -43,8 +43,8 @@ A beautiful, modern blog management platform where you can browse, read, and cre
 
 1. **Clone the project**
    ```bash
-   git clone https://github.com/your-username/camonk-blog-app.git
-   cd camonk-blog-app
+   git clone https://github.com/Pavan-folder/CA-Monk.git
+   cd CA-Monk
    ```
 
 2. **Install all dependencies**
@@ -208,7 +208,7 @@ This creates a `dist/` folder with optimized files ready for deployment.
 We welcome contributions! Here's how to get started:
 
 1. **Fork** the repository
-2. **Clone** your fork: `git clone https://github.com/your-username/camonk-blog-app.git`
+2. **Clone** your fork: `https://github.com/Pavan-folder/CA-Monk.git`
 3. **Create** a feature branch: `git checkout -b feature/amazing-feature`
 4. **Make** your changes and test thoroughly
 5. **Commit** with clear messages: `git commit -m 'Add amazing feature'`
