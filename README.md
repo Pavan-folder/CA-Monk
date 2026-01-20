@@ -197,11 +197,7 @@ npm run build
 
 This creates a `dist/` folder with optimized files ready for deployment.
 
-### Hosting Options
-- **Vercel**: Drag & drop the `dist` folder
-- **Netlify**: Connect your GitHub repo
-- **GitHub Pages**: Use GitHub Actions
-- **Any Static Host**: Upload the `dist` folder
+
 
 ## 🤝 Contributing
 
